@@ -13,6 +13,6 @@
     "url": "https://gitlab.com/jyf-share/gitlab-ci-cd.git"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   }
 }
